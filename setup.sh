@@ -34,4 +34,4 @@ echo "Installing Postgres, RVM and Yarn..."
 sudo apt install -y postgresql postgresql-contrib libpq-dev software-properties-common rvm yarn
 
 echo "Reloading bash config..."
-echo 'source ~/.bashrc'
+source ~/.bashrc
