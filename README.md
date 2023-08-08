@@ -3,8 +3,10 @@
 A small script for saving time when setting up a Linux environment for Rails in one go. Written to save myself some seconds of my 'invaluable' time.
 
 ## How to use
-- Clone repo
-- `cd lazy_rails_setup`
+- Get the script
+- Run the script
+
+## Reminder
 - `chmod +x ./setup.sh`
 - `./setup.sh`
 
